@@ -39,7 +39,7 @@
 <p>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=html,css,js,ts,alpinejs,angular,jquery,nextjs,react,svelte,tailwind,bootstrap,vite,vue,wordpress"
+      src="https://skillicons.dev/icons?i=html,css,js,ts,alpinejs,angular,jquery,nextjs,react,svelte,tailwind,bootstrap,vite,vue,wordpress&perline=6"
     />
   </a>
 </p>
@@ -49,7 +49,7 @@
 <p>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=js,ts,php,django,express,java,laravel,nestjs,nodejs,py"
+      src="https://skillicons.dev/icons?i=js,ts,php,django,express,java,laravel,nestjs,nodejs,py&perline=6"
     />
   </a>
 </p>
@@ -59,17 +59,7 @@
 <p>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,prisma,supabase"
-    />
-  </a>
-</p>
-
-#### Tools
-
-<p>
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=anaconda,bash,git,github,npm,pnpm,postman,nginx,netlify,vercel,vscode,sublime,notion,discord,linkedin"
+      src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,prisma,supabase&perline=6"
     />
   </a>
 </p>
@@ -79,10 +69,22 @@
 <p>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=figma,ps,ai,sketchup"
+      src="https://skillicons.dev/icons?i=figma,ps,ai,sketchup&perline=6"
     />
   </a>
 </p>
+
+#### Tools
+
+<p>
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=anaconda,bash,powershell,git,github,npm,pnpm,postman,nginx,netlify,vercel,vscode,sublime,notion,discord,linkedin&perline=6"
+    />
+  </a>
+</p>
+
+
 
 
 
