@@ -19,7 +19,7 @@
 </h1>
 
 <h4 align="center" style="color: #0d6efd">
-  Front-End Developer <a href="/">|</a> UI/UX Designer <a href="/">|</a> Graphic
+  Web Developer <a href="/">|</a> UI/UX Designer <a href="/">|</a> Graphic
   Designer
 </h4>
 
